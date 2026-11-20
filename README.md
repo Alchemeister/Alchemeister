@@ -34,8 +34,6 @@ API usage data — and I put guardrails on the output so it can be trusted.
 | **[PeptideCleanScore](https://github.com/Alchemeister/clean-pep)** | Vendor-quality scoring across 200+ suppliers, normalizing 7,000+ third-party lab test records to surface contamination and transparency gaps | Python, SQL |
 | **[DevCosts](https://github.com/Alchemeister/devcosts)** | Unified multi-provider API billing dashboard — pluggable data adapters, idempotent daily upserts, AES-256-GCM credential encryption, budget alerts | Next.js, TypeScript, PostgreSQL |
 | **[SignalMD](https://github.com/Alchemeister/signalmd)** | Patient-first evidence prep. Strict rule: *no source, no claim.* Renders retrieved PubMed metadata only, never diagnoses or prescribes | JavaScript, HTML/CSS |
-| **[Futures Strategies](https://github.com/Alchemeister/futures-strategies)** | Multi-market backtesting and walk-forward validation across 20 CME markets — commission/slippage modeling, conservative stop tie-breaking, bias audits | Python |
-| **[ICT Strategies](https://github.com/Alchemeister/ict-strategies)** | Liquidity-sweep and structure-shift strategy frameworks with full backtest harnesses across 9 CME markets | Python |
 | **[Device Flip Toolkit](https://github.com/Alchemeister/device-flip-toolkit)** | Deal-sourcing and profitability tooling: ROI grids, buy-side risk filters, listing generation | Python |
 | **[LoanFi](https://github.com/Alchemeister/loanfi)** | DeFi loan aggregator — compare rates across Aave/Compound, multi-chain | Next.js, Prisma, Viem |
 
