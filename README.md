@@ -36,6 +36,10 @@ API usage data — and I put guardrails on the output so it can be trusted.
 | **[SignalMD](https://github.com/Alchemeister/signalmd)** | Patient-first evidence prep. Strict rule: *no source, no claim.* Renders retrieved PubMed metadata only, never diagnoses or prescribes | JavaScript, HTML/CSS |
 | **[Device Flip Toolkit](https://github.com/Alchemeister/device-flip-toolkit)** | Deal-sourcing and profitability tooling: ROI grids, buy-side risk filters, listing generation | Python |
 | **[LoanFi](https://github.com/Alchemeister/loanfi)** | DeFi loan aggregator — compare rates across Aave/Compound, multi-chain | Next.js, Prisma, Viem |
+| **[AudienceOS](https://github.com/Alchemeister/audienceos)** | Full-stack audience intelligence — locate your audience, reach them with generated content, adapt from real feedback | Next.js, FastAPI, PostgreSQL |
+| **[ListingWriter](https://github.com/Alchemeister/listingwriter)** | Photo-to-listing generator with a serverless Claude vision backend, input validation and per-IP rate limiting | Expo, TypeScript, Vercel |
+| **[AI Study App](https://github.com/Alchemeister/aistudyapp)** | Generates custom mnemonics, quizzes and summaries from your own material | React Native, Expo, Gemini |
+| **[SGCangular](https://github.com/Alchemeister/SGCangular)** | Angular 18 front-end foundation — proxy config, strict TypeScript, flat ESLint setup | Angular, TypeScript |
 
 ---
 
