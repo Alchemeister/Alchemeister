@@ -3,6 +3,8 @@
 **Technical Systems Designer & Data Specialist** — Duson, Louisiana (US Central)
 Open to **remote** roles in technical data, QA, and operations.
 
+**Portfolio site:** https://alchemeister.github.io/Alchemeister — full project gallery, skills matrix, and work history.
+
 [![Resume](https://img.shields.io/badge/Resume-Download_2--page_PDF-24292f?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Alchemeister/Alchemeister/releases/latest/download/Jacob_Mroczkowski_Resume.pdf)
 
 Contact: **jmroczkowski420@gmail.com** · 337-852-2488
