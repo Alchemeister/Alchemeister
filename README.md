@@ -7,7 +7,7 @@ Open to **remote** roles in technical data, QA, and operations.
 
 [![Resume](https://img.shields.io/badge/Resume-Download_2--page_PDF-24292f?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Alchemeister/Alchemeister/releases/latest/download/Jacob_Mroczkowski_Resume.pdf)
 
-Contact: **jmroczkowski420@gmail.com** · 337-852-2488
+Contact: **jacobmroczkowski@proton.me** · 337-852-2488
 
 ---
 
@@ -21,7 +21,7 @@ API usage data — and I put guardrails on the output so it can be trusted.
 
 - **Relational data architecture** — schema design, row-level security, state machines
 - **Data quality** — normalization, deduplication, master-data cleansing, scoring rubrics
-- **QA gates** — edge-case verification, idempotency safeguards, drift detection
+- **QA gates** — edge-case verification, idempotency safeguards, bias audits
 - **Full-stack implementation** — PostgreSQL, TypeScript, Python, Next.js, Supabase
 - **AI orchestration** — LLM-assisted engineering with compile-time and runtime verification
 
