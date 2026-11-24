@@ -23,7 +23,7 @@ API usage data — and I put guardrails on the output so it can be trusted.
 - **Data quality** — normalization, deduplication, master-data cleansing, scoring rubrics
 - **QA gates** — edge-case verification, idempotency safeguards, bias audits
 - **Full-stack implementation** — PostgreSQL, TypeScript, Python, Next.js, Supabase
-- **AI orchestration** — LLM-assisted engineering with compile-time and runtime verification
+- **AI orchestration** — LLM-assisted engineering (Claude, ChatGPT, Gemini, Ollama) with compile-time and runtime verification
 
 ---
 
