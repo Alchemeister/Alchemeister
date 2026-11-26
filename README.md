@@ -1,7 +1,7 @@
 # Jacob Mroczkowski
 
 **Data Quality & Validation Analyst** — Duson, Louisiana (US Central)
-Open to **remote** roles in technical data, QA, and operations.
+Open to **remote** roles in data validation, migration, reconciliation, and data quality.
 
 **Portfolio site:** https://alchemeister.github.io/Alchemeister — full project gallery, skills matrix, and work history.
 
