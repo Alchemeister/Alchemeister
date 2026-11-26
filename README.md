@@ -1,6 +1,6 @@
 # Jacob Mroczkowski
 
-**Technical Systems Designer & Data Specialist** — Duson, Louisiana (US Central)
+**Data Quality & Validation Analyst** — Duson, Louisiana (US Central)
 Open to **remote** roles in technical data, QA, and operations.
 
 **Portfolio site:** https://alchemeister.github.io/Alchemeister — full project gallery, skills matrix, and work history.
